@@ -12,3 +12,6 @@
 	width: 50%;
 	background-color: transparent;
 }
+.grid-item{
+	background-color: rgba(0,0,0,0);
+}
